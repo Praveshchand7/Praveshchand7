@@ -1,7 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![Animhorse](https://user-images.githubusercontent.com/91019668/168986946-42c73c9d-4109-4549-a0a9-188123a4db2c.gif)
 
 <!--
 **Praveshchand7/Praveshchand7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
