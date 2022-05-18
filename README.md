@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/RJVw6tIfb2dIwTHFb0" width="480" height="312" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NeighborlyNotaryNYC-congrats-man-office-dispassionate-RJVw6tIfb2dIwTHFb0">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/RJVw6tIfb2dIwTHFb0" width="480" height="312" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <!--
 **Praveshchand7/Praveshchand7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
