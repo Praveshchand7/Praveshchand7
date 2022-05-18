@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/RJVw6tIfb2dIwTHFb0" width="480" height="312" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 <!--
 **Praveshchand7/Praveshchand7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
