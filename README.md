@@ -2,7 +2,7 @@
 
 Hello, I'm Pravesh. 
 
-I'm a self-taught passionate Fullstack developer, Electrical/Electronic/Communication Engineer
+I'm a passionate Fullstack developer, Electrical/Electronic/Communication Engineer
 
 About me
 
